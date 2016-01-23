@@ -1,0 +1,57 @@
+/*
+ Theme Name:   Cyanotype Child
+ Theme URI:    https://theme.wordpress.com/themes/cyanotype/
+ Description:  Cyanotype Child Theme
+ Author:       Pango
+ Author URI:   http://pango.world
+ Template:     cyanotype
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  cyanotype-child
+*/
+
+.p{
+    color: #fa9581 ;
+}
+.h1 {
+    color: #fa9581 ;
+}
+
+.h2 {
+    color: #8bacbd ;
+}
+
+.entry-title{
+    color: #fa9581 ;
+}
+
+.screen-reader-text{
+    color: #fa9581 ;
+}
+
+.entry-header{
+    color: #fa9581 ;
+}
+
+.admin-bar{
+
+}
+
+.entry-content{
+    color: #fa9581 ;
+}
+
+.menu-item, .menu-item-type-post_type, .menu-item-object-page, .menu-item-11 {
+    color: #fa9581 ;
+}
+
+body,
+button,
+input,
+select,
+textarea {
+    color: #fa9581;
+}
+
